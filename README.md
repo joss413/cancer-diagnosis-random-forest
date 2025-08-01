@@ -7,9 +7,9 @@ It compares Decision Tree and Random Forest classifiers and explores hyperparame
 🔹 Features
 
 -age       ,genetic_risk     , diagnosis
--gender    , physical_activity
--bmi       ,alcohol_intake
--smoking   ,cancer_history
+,gender    , physical_activity
+,bmi       ,alcohol_intake
+,smoking   ,cancer_history
 
 
 ## 🚀 Project Workflow
