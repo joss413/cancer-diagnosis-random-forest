@@ -11,6 +11,7 @@ gender     physical_activity
 bmi       alcohol_intake
 smoking   cancer_history
 
+This project uses the [Cancer Prediction Dataset](https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset) published by **Rabie El Kharoua** on Kaggle.
 
 ## 🚀 Project Workflow
 
