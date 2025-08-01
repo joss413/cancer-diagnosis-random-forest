@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 📂 Files in This Repo
 
-- cancer_decision_tree.ipynb: Full notebook with EDA, preprocessing, modeling, and evaluation.
+- cancer.ipynb: Full notebook with EDA, preprocessing, modeling, and evaluation.
 - requirements.txt: List of required Python packages.
 - README.md: Project overview and documentation
 
