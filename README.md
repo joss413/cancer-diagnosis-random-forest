@@ -4,10 +4,12 @@ It compares Decision Tree and Random Forest classifiers and explores hyperparame
 
 ## 📊 Dataset Overview
 
--age       - genetic_risk     - diagnosis
--gender    - physical_activity
--bmi       -alcohol_intake
--smoking   -cancer_history
+🔹 Features
+
+-age       ,genetic_risk     , diagnosis
+-gender    , physical_activity
+-bmi       ,alcohol_intake
+-smoking   ,cancer_history
 
 
 ## 🚀 Project Workflow
