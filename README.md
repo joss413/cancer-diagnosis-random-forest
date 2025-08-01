@@ -45,7 +45,6 @@ RandomForestClassifier(
     n_estimators=50
 )
 
-📈 Model Evaluation
 
 ## 📈 Model Evaluation
 
